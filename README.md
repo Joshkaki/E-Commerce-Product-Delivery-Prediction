@@ -1,0 +1,2 @@
+# E-Commerce-Product-Delivery-Prediction
+An international e-commerce company wants to discover key insights from its customer database. Using Machine Learning Algorithms, we are determining the factors on which the Delivery of a product depends on being delivered on time to the customers. Also, creating a Model to predict if the delivery will be delayed or not based on the given factors. Using this the customer can check if their product will be delivered on time.
